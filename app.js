@@ -564,19 +564,15 @@ console.log("Initializing WhatsApp Client...\n");
 const client = new Client({
     authStrategy: new LocalAuth({ clientId: "main" }),
 
-   puppeteer: {
-    headless: true,
-    args: [
-        "--no-sandbox",
-        "--disable-setuid-sandbox",
-        "--disable-dev-shm-usage"
-    ]
-},
-    takeoverOnConflict: true,
-    restartOnAuthFail: true,
-    qrMaxRetries: 5
+    puppeteer: {
+        headless: true,
+        args: [
+            "--no-sandbox",
+            "--disable-setuid-sandbox",
+            "--disable-dev-shm-usage"
+        ]
+    }
 });
-
 /* ---------------- EVENTS ---------------- */
 
 client.on("qr", qr => {
