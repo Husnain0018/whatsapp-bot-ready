@@ -1,0 +1,14 @@
+2026/06/19-20:53:59.193 12389 Reusing MANIFEST /home/husnain/Desktop/whatsapp/whatsapp-ai/.wwebjs_auth/session-main/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/19-20:53:59.194 12389 Recovering log #6
+2026/06/19-20:53:59.315 12389 Reusing old log /home/husnain/Desktop/whatsapp/whatsapp-ai/.wwebjs_auth/session-main/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000006.log 
+2026/06/19-20:53:59.316 12389 Delete type=2 #5
+2026/06/19-20:53:59.316 12389 Delete type=2 #7
+2026/06/19-20:54:02.861 12388 Level-0 table #11: started
+2026/06/19-20:54:02.892 12388 Level-0 table #11: 1162926 bytes OK
+2026/06/19-20:54:02.898 12388 Delete type=0 #6
+2026/06/19-20:54:03.513 12388 Compacting 1@1 + 1@2 files
+2026/06/19-20:54:03.570 12388 Generated table #12@1: 27436 keys, 1329213 bytes
+2026/06/19-20:54:03.570 12388 Compacted 1@1 + 1@2 files => 1329213 bytes
+2026/06/19-20:54:03.575 12388 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/19-20:54:03.575 12388 Delete type=2 #11
+2026/06/19-20:54:03.575 12388 Delete type=2 #8
